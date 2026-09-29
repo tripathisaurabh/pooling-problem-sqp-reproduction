@@ -1,0 +1,69 @@
+{
+  "instance": "af-1",
+  "best_known_paper": 296.44604,
+  "best_feasible": {
+    "start": 0,
+    "objective": 297.19591662882294,
+    "max_violation": 1.3802804321727535e-07,
+    "feasible": true,
+    "iterations": 30,
+    "seconds": 35.992,
+    "solver_success": false,
+    "message": "Feasible LP repair at final pool recipe"
+  },
+  "relative_gap_percent": 0.2529555223011126,
+  "within_0.2_percent": false,
+  "within_0.02_percent": false,
+  "runs": [
+    {
+      "start": 0,
+      "objective": 297.1928850235147,
+      "max_violation": 0.00025839726818066566,
+      "feasible": false,
+      "iterations": 30,
+      "seconds": 35.992,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 1,
+      "objective": 297.2450718207576,
+      "max_violation": 0.008334475532044472,
+      "feasible": false,
+      "iterations": 29,
+      "seconds": 32.918,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 2,
+      "objective": 296.55541613976675,
+      "max_violation": 0.20794085831774467,
+      "feasible": false,
+      "iterations": 25,
+      "seconds": 27.935,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 3,
+      "objective": 297.27717725160505,
+      "max_violation": 0.0121144144915597,
+      "feasible": false,
+      "iterations": 33,
+      "seconds": 42.698,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 4,
+      "objective": 296.9316028804115,
+      "max_violation": 0.04049553550041729,
+      "feasible": false,
+      "iterations": 21,
+      "seconds": 21.59,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    }
+  ]
+}

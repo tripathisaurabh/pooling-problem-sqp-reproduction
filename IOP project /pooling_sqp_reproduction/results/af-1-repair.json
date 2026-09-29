@@ -1,0 +1,29 @@
+{
+  "instance": "af-1",
+  "best_known_paper": 296.44604,
+  "best_feasible": {
+    "start": 0,
+    "objective": 296.7587701766476,
+    "max_violation": 1.2525675541219528e-07,
+    "feasible": true,
+    "iterations": 27,
+    "seconds": 37.836,
+    "solver_success": false,
+    "message": "Feasible LP repair at final pool recipe"
+  },
+  "relative_gap_percent": 0.10549311997813948,
+  "within_0.2_percent": true,
+  "within_0.02_percent": false,
+  "runs": [
+    {
+      "start": 0,
+      "objective": 296.7472434469369,
+      "max_violation": 0.0025309173585466027,
+      "feasible": false,
+      "iterations": 27,
+      "seconds": 37.836,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    }
+  ]
+}

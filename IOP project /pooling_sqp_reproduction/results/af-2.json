@@ -1,0 +1,110 @@
+{
+  "instance": "af-2",
+  "best_known_paper": 239334.02,
+  "best_feasible": null,
+  "relative_gap_percent": null,
+  "within_0.2_percent": false,
+  "within_0.02_percent": false,
+  "runs": [
+    {
+      "start": 0,
+      "objective": 267364.44045,
+      "max_violation": 137.2711,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 3.754,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 1,
+      "objective": 77396738.6697537,
+      "max_violation": 277.66189832101867,
+      "feasible": false,
+      "iterations": 6,
+      "seconds": 10.069,
+      "solver_success": false,
+      "message": "More than 3*n iterations in LSQ subproblem"
+    },
+    {
+      "start": 2,
+      "objective": 943039.0309999998,
+      "max_violation": 135.49209999999997,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 3.737,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 3,
+      "objective": 4432008.7662875,
+      "max_violation": 280.6659,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 14.039,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 4,
+      "objective": 720820.262625,
+      "max_violation": 113.18140000000001,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 3.429,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 5,
+      "objective": 269739.95105000003,
+      "max_violation": 125.57990000000001,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 7.546,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 6,
+      "objective": 374181.57171249995,
+      "max_violation": 280.6659,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 8.322,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 7,
+      "objective": 242080.4575,
+      "max_violation": 277.6659,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 8.187,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 8,
+      "objective": 1171770.754425,
+      "max_violation": 120.57990000000001,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 3.518,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    },
+    {
+      "start": 9,
+      "objective": 356725.80669999996,
+      "max_violation": 129.2791,
+      "feasible": false,
+      "iterations": 5,
+      "seconds": 3.611,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    }
+  ]
+}

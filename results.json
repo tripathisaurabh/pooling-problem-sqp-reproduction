@@ -1,0 +1,38 @@
+{
+  "paper": "Grothey, On the effectiveness of sequential linear programming for the pooling problem",
+  "formulation": "fixed-demand qq, equations 5a-5h",
+  "solver": "SciPy SLSQP with fixed-pool LP feasibility repair (not FilterSQP)",
+  "instance": "af-1",
+  "seed": 42,
+  "requested_starts": 1,
+  "completed_starts": 1,
+  "elapsed_seconds": 35.712141900000006,
+  "feasibility_cutoff": 1e-06,
+  "best_known_objective": 296.44604,
+  "best_feasible": {
+    "start": 0,
+    "objective": 296.7587701766476,
+    "max_violation": 1.2525675541219528e-07,
+    "feasible": true,
+    "iterations": 27,
+    "seconds": 35.711,
+    "solver_success": false,
+    "message": "Feasible LP repair at final pool recipe"
+  },
+  "runs": [
+    {
+      "start": 0,
+      "objective": 296.7472434469369,
+      "max_violation": 0.0025309173585466027,
+      "feasible": false,
+      "iterations": 27,
+      "seconds": 35.711,
+      "solver_success": false,
+      "message": "Positive directional derivative for linesearch"
+    }
+  ],
+  "relative_gap_percent": 0.10549311997813948,
+  "within_paper_0_2_percent": true,
+  "within_requested_0_02_percent": false,
+  "maximum_constraint_violation_recomputed": 1.2525675541219528e-07
+}
